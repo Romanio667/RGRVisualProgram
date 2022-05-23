@@ -1,10 +1,10 @@
 using Avalonia;
 using Avalonia.Controls.ApplicationLifetimes;
 using Avalonia.Markup.Xaml;
-using MiroshnichenkoCurs.ViewModels;
-using MiroshnichenkoCurs.Views;
+using RGR.ViewModels;
+using RGR.Views;
 
-namespace MiroshnichenkoCurs
+namespace RGR
 {
     public partial class App : Application
     {

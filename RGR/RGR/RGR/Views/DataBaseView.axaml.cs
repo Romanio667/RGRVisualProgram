@@ -2,11 +2,11 @@ using Avalonia;
 using Avalonia.Controls;
 using Avalonia.Markup.Xaml;
 
-namespace MiroshnichenkoCurs.Views
+namespace RGR.Views
 {
-    public partial class SecondView : UserControl
+    public partial class DataBaseView : UserControl
     {
-        public SecondView()
+        public DataBaseView()
         {
             InitializeComponent();
         }

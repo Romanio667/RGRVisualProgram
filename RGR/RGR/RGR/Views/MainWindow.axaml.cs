@@ -1,7 +1,6 @@
 using Avalonia.Controls;
-using System;
 
-namespace MiroshnichenkoCurs.Views
+namespace RGR.Views
 {
     public partial class MainWindow : Window
     {
@@ -9,6 +8,5 @@ namespace MiroshnichenkoCurs.Views
         {
             InitializeComponent();
         }
-
     }
 }

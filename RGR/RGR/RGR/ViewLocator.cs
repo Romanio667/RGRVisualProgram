@@ -1,9 +1,9 @@
 using Avalonia.Controls;
 using Avalonia.Controls.Templates;
-using MiroshnichenkoCurs.ViewModels;
+using RGR.ViewModels;
 using System;
 
-namespace MiroshnichenkoCurs
+namespace RGR
 {
     public class ViewLocator : IDataTemplate
     {
