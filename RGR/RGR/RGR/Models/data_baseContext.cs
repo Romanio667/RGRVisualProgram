@@ -29,7 +29,7 @@ namespace RGR
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlite("Data Source=C:\\Users\\Рома\\Desktop\\RGR\\data_base.db");
+                optionsBuilder.UseSqlite("Data Source=C:\\Users\\Рома\\source\\repos\\RGRVisualProgram\\RGR\\data_base.db");            
             }
         }
 
